@@ -1,3 +1,4 @@
-# lake-api
-## https://discord.gg/vDDZYDn3g6
+# Lake API
+## https://lakeapi.netlify.app/
+https://discord.gg/vDDZYDn3g6
 made by xenon
